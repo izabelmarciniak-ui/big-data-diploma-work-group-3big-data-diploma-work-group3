@@ -1,6 +1,6 @@
 Wytyczne do prac dyplomowych - 06 2026 
 
-Nasz temat : Praca dyplomowa - World Smartphone Index - więcej informacji w # Wiki # 
+Nasz temat : Praca dyplomowa - World Smartphone Index - więcej informacji w Wiki  
 Do pracy dyplomowej przygotowujemy:
 Techniczne rozwiązanie dla projektu (technologia dowolna)
 Skonfigurowany MS DevOps dla zespołu wraz z zadaniami na Kanbanie
