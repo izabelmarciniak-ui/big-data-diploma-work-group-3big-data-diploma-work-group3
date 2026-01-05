@@ -1,5 +1,5 @@
 ## Powołanie bazy danych z kodu
-W 001-sql_server_infrastructure.arm znajduje się template ARM JSON. Aby powołać infrastrukturę, należy:
+W Azure-IaaC-SQLServer znajduje się template ARM JSON. Aby powołać infrastrukturę, należy:
 
 1. Zalogować się do portalu Azure
 2. Wejść w: Deploy a custom template
