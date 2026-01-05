@@ -1,12 +1,13 @@
 Wytyczne do prac dyplomowych - 06 2026 
 
-Nasz temat : Praca dyplomowa - World Smartphone Index - więcej informacji w Wiki  
+Nasz temat : Praca dyplomowa - World Smartphone Index - więcej informacji w Wiki
+
 Do pracy dyplomowej przygotowujemy:
-Techniczne rozwiązanie dla projektu (technologia dowolna)
-Skonfigurowany MS DevOps dla zespołu wraz z zadaniami na Kanbanie
-Diagram Architektury (może być w draw.io)
-Całość wieńczymy prezentacją PPT+PDF na potrzebę egzaminu (udostępnię szablo ppt Merito)
-Źródła rozwiązania wgrywamy na GitHub/MSDevOps -> prośba o nadanie dostępu dla Grzegorza
+- Techniczne rozwiązanie dla projektu (technologia dowolna)
+- Skonfigurowany MS DevOps dla zespołu wraz z zadaniami na Kanbanie
+- Diagram Architektury (może być w draw.io)
+- Całość wieńczymy prezentacją PPT+PDF na potrzebę egzaminu (udostępnię szablo ppt Merito)
+- Źródła rozwiązania wgrywamy na GitHub/MSDevOps -> prośba o nadanie dostępu dla Grzegorza
 
 Prezentacja pracy dyplomowej składa się z ok 4 slajdów: FORMAT PPT + PDF NA TEMPLATE MERITO.
 #1 Tytułowy z opisem pracy i zespołem tworzącym
