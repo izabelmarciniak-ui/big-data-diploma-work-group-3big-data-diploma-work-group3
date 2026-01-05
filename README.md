@@ -1,11 +1,3 @@
-## Powołanie bazy danych z kodu
-W Azure-IaaC-SQLServer znajduje się template ARM JSON. Aby powołać infrastrukturę, należy:
-
-1. Zalogować się do portalu Azure
-2. Wejść w: Deploy a custom template
-3. Wkleić cały JSON
-4. Podać bezpieczne, długie hasło
-5. Kliknąć Review + Create
 
 ## Wytyczne do prac dyplomowych - 06 2026 
 
@@ -27,6 +19,15 @@ Nasz temat : Praca dyplomowa - World Smartphone Index - więcej informacji w Wik
 #6 Podajemy URL dostępowe do MS DevOps oraz do repozytorium GitHub
 BONUS POINT:
 Jeśli mamy wystarczającą ilość czasu, podejmujemy próbę wygenerowania Modelu (AI) w celu predykcji danych dla projektu.
+
+## Powołanie bazy danych z kodu
+W Azure-IaaC-SQLServer znajduje się template ARM JSON. Aby powołać infrastrukturę, należy:
+
+1. Zalogować się do portalu Azure
+2. Wejść w: Deploy a custom template
+3. Wkleić cały JSON
+4. Podać bezpieczne, długie hasło
+5. Kliknąć Review + Create
 
 Ogólne:
 Uważamy na koszty w Azure - źle skonfigurowany Plan lub niezamknięta VMka wygeneruje koszt "zjadający" naszą subskrypcję.
