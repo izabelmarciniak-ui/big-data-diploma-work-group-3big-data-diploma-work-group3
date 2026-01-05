@@ -1,3 +1,6 @@
+Opis zadania. 
+
+
 "Analiza czynników kształtujących ceny i ocen smartfonów na globalnym rynku w 2025 roku na podstawie danych o specyfikacji technicznej urządzeń"
 
 Zbiór danych zawiera informacje o marce, modelu, cenie, pamięci RAM, pamięci wewnętrznej, rozdzielczości aparatu, pojemności baterii, rozmiarze ekranu, mocy ładowania, wsparciu 5G, systemie operacyjnym, procesorze, ocenie/ratingu oraz miesiącu i roku premiery smartfona.​Pozwala to analizować zarówno zależności techniczne (specyfikacja vs cena), jak i marketingowo-rynkowe (brand, OS, 5G, czas premiery vs cena i rating).​
